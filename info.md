@@ -1,1 +1,1 @@
-privet github
+privet github and mir
