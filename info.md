@@ -43,3 +43,5 @@ __Список клиентов с графическим интерфейсом
 
 __Онлайн утилита для генерации .gitignore файлов__ https://www.gitignore.io/
 
+haloo
+privet github and mir
